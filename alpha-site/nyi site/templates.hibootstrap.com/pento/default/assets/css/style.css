@@ -3138,6 +3138,7 @@ button:focus {
     z-index: -1;
 }
 .three-about-area .about-img {
+    
     position: relative;
     margin-bottom: 30px;
 }
@@ -6439,4 +6440,26 @@ button:focus {
 }
 .navbar-light .side-nav .side-nav-left {
     color:white;
+}
+
+.work-img{
+    max-width:75%;
+}
+
+
+    
+
+.extracontent {
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.initiative{
+        display: flex;
+        justify-content: center; 
+        float: left;
+}
+.init{
+    background-color: #0d1820 !important;    border-radius: 6px !important;
 }
